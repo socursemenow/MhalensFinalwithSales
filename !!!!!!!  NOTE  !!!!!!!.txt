@@ -1,0 +1,9 @@
+
+http://127.0.0.1/Mhalens23/login.php
+
+Email: robertgreen@gmail.com
+Password: qwert
+
+========================================
+
+sir yung sql po andun na din po sa file ang name po ay inventory(1).sql
